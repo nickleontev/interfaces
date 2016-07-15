@@ -24,20 +24,20 @@ namespace _2sem_3lab
         
 
         //Перемещает перечислитель к следующему элементу коллекции.
-        public bool MoveNext()
-        {
-            if (index < arr.Length - 1)
-            {
-                index = index + 1;
+        //public bool MoveNext()
+        //{
+        //    if (index < arr.Length - 1)
+        //    {
+        //        index = index + 1;
 
-                return true;
-            }
-            else
-            {
-                Reset();
-                return false;
-            }
-        }
+        //        return true;
+        //    }
+        //    else
+        //    {
+        //        Reset();
+        //        return false;
+        //    }
+        //}
 
         //Устанавливает перечислитель в его начальное положение, 
         //т. е. перед первым элементом коллекции

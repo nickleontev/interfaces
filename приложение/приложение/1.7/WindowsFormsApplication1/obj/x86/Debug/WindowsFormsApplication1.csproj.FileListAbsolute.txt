@@ -87,3 +87,5 @@ C:\Users\ritbo\Desktop\приложение\приложение\1.7\WindowsForm
 C:\Users\ritbo\Desktop\приложение\приложение\1.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TrustInfo.xml
 C:\Users\ritbo\Desktop\приложение\приложение\1.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe.manifest
 C:\Users\ritbo\Desktop\приложение\приложение\1.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.application
+C:\Users\sv\Desktop\Интерфейсы\приложение\приложение\1.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\sv\Desktop\Интерфейсы\приложение\приложение\1.7\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
