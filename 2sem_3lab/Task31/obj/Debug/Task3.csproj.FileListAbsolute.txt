@@ -1,0 +1,6 @@
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\2sem_3lab\Task31\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\2sem_3lab\Task31\bin\Debug\Task3.exe.config
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\2sem_3lab\Task31\bin\Debug\Task3.exe
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\2sem_3lab\Task31\bin\Debug\Task3.pdb
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\2sem_3lab\Task31\obj\Debug\Task3.exe
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\2sem_3lab\Task31\obj\Debug\Task3.pdb

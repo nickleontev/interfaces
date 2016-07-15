@@ -1,0 +1,6 @@
+c:\users\александр\documents\visual studio 2013\Projects\2sem_3lab\2sem_3lab\bin\Debug\2sem_3lab.exe.config
+c:\users\александр\documents\visual studio 2013\Projects\2sem_3lab\2sem_3lab\bin\Debug\2sem_3lab.exe
+c:\users\александр\documents\visual studio 2013\Projects\2sem_3lab\2sem_3lab\bin\Debug\2sem_3lab.pdb
+c:\users\александр\documents\visual studio 2013\Projects\2sem_3lab\2sem_3lab\obj\Debug\2sem_3lab.csprojResolveAssemblyReference.cache
+c:\users\александр\documents\visual studio 2013\Projects\2sem_3lab\2sem_3lab\obj\Debug\2sem_3lab.exe
+c:\users\александр\documents\visual studio 2013\Projects\2sem_3lab\2sem_3lab\obj\Debug\2sem_3lab.pdb
