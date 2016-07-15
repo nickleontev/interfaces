@@ -1,0 +1,12 @@
+C:\Users\sv\Desktop\C#\2sem1lab\2sem1lab\bin\Debug\2sem1lab.exe.config
+C:\Users\sv\Desktop\C#\2sem1lab\2sem1lab\bin\Debug\2sem1lab.exe
+C:\Users\sv\Desktop\C#\2sem1lab\2sem1lab\bin\Debug\2sem1lab.pdb
+C:\Users\sv\Desktop\C#\2sem1lab\2sem1lab\obj\Debug\2sem1lab.csprojResolveAssemblyReference.cache
+C:\Users\sv\Desktop\C#\2sem1lab\2sem1lab\obj\Debug\_2sem1lab.Properties.Resources.resources
+C:\Users\sv\Desktop\C#\2sem1lab\2sem1lab\obj\Debug\2sem1lab.csproj.GenerateResource.Cache
+C:\Users\sv\Desktop\C#\2sem1lab\2sem1lab\obj\Debug\2sem1lab.exe
+C:\Users\sv\Desktop\C#\2sem1lab\2sem1lab\obj\Debug\2sem1lab.pdb
+C:\Users\sv\Desktop\C#\2sem1lab\2sem1lab\obj\Debug\_2sem1lab.Readin_btn.resources
+C:\Users\Александр\Desktop\2sem1lab 1.9\2sem1lab\bin\Debug\2sem1lab.exe.config
+C:\Users\Александр\Desktop\2sem1lab 1.9\2sem1lab\obj\Debug\2sem1lab.exe
+C:\Users\Александр\Desktop\2sem1lab 1.9\2sem1lab\obj\Debug\2sem1lab.pdb
