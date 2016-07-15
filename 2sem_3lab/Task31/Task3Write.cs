@@ -9,12 +9,14 @@ namespace Task31
 {
     class Task3Write : IWrite, IRead
     {
+        //Саня привет
         public int group;
         public int mark;
         public string FIO;
         public string facult;
         public char[] ArrFIO; 
-        public char[] Arrfacult; 
+        public char[] Arrfacult;
+        public string roman;
 
         public Task3Write( int group, int mark, string FIO, string facult)
         {
